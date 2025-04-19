@@ -14,6 +14,8 @@ export default function Navbar() {
           <a href="#" className="text-gray-700 hover:text-blue-500 font-medium">History</a>
           <a href="#" className="text-gray-700 hover:text-blue-500 font-medium">Favorites</a>
           <a href="#" className="text-gray-700 hover:text-blue-500 font-medium">Ask AI</a>
+          <a href="/upload" className="text-gray-700 hover:text-blue-500 font-medium">Upload</a>
+
         </div>
 
         <button
@@ -31,6 +33,8 @@ export default function Navbar() {
           <a href="#" className="block text-gray-700 hover:text-blue-500">History</a>
           <a href="#" className="block text-gray-700 hover:text-blue-500">Favorites</a>
           <a href="#" className="block text-gray-700 hover:text-blue-500">Ask AI</a>
+          <a href="/upload" className="text-gray-700 hover:text-blue-500 font-medium">Upload</a>
+
         </div>
       )}
     </nav>
